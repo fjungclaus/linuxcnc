@@ -10,3 +10,12 @@ Example ngc files:
 Example ngc files (ngcgui compatible subroutines):
   examples/test-xyzac.ngc
   examples/test-xyzbc.ngc
+--------------------------------------------------------------
+
+xyzac-trt-switchkins (experimental)
+uses examples/switchkins.ngc for setting kinematics
+
+Example ngc files:
+  examples/switchkins_test_1.ngc
+  examples/switchkins_test_2.ngc
+

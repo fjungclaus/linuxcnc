@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pyvcp>
+
+  <label>
+    <text>"SWITCHKINS"</text>
+    <relief>RIDGE</relief>
+    <bd>3</bd>
+  </label>
+  <number>
+    <halpin>"switchkins-type"</halpin>
+    <font>("Helvetica",24)</font>
+    <bg>"black"</bg>
+    <fg>"red"</fg>
+    <format>"1.0f"</format>
+  </number>
+
+  <button>
+    <halpin>"trivkins-button"</halpin>
+    <text>"Trivkins(0)"</text>
+    <bd>3</bd>
+  </button>
+  <button>
+    <halpin>"xyzac-button"</halpin>
+    <text>"XYZAC(1)"</text>
+    <bd>3</bd>
+  </button>
+
+</pyvcp>
